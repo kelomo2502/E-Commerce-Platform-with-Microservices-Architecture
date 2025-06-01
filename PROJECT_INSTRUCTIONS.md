@@ -13,3 +13,5 @@ The goal is to containerize these microservices using Docker, deploy them to a K
 
 #### Task 1: Project Setup
 
+- Create a new project directory named `ecommerce-platform`.
+- Inside, create subdirectories for each microservice: `product-service`, `cart-service`, `order-service`.
